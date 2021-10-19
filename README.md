@@ -7,7 +7,10 @@ Sign Language recognition using to TensorFlow and Mediapipe.
 - upload gif
 - dataset not included because too many small files (very troublesome to upload)
 
-
+install the following dependencies for the notebook
+```
+!pip install tensorflow==2.4.1 tensorflow-gpu==2.4.1 opencv-python mediapipe sklearn matplotlib pyttsx3
+```
 
 Although simple, our model has the following benefits:
 
