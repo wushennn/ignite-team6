@@ -29,7 +29,7 @@ Shows exported numpy arrays of keypoints used as data to train the LSTM model, e
 ### model_tester.py
 Code to test the model on a live webcam feed using OpenCV. Outputs predicted text on video feed and has text-to-speech implemented (video feed out might lag for text to speech as threading has not been implemented).
 
-Model used for this demo is able to recognize the following words: please, hire, me, google.
+Model used for this demo is able to recognize the following words: _please, hire, me, google_.
 
 <img src="https://github.com/wushennn/ignite-team6/blob/main/action_hireme.gif" width="370" height="200">
 
