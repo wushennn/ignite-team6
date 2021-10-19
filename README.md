@@ -3,7 +3,6 @@ Sign Language recognition using to TensorFlow and Mediapipe.
 
 - upload tflite, h5 please hire me model
 - upload clean notebook
-- upload rpi code
 - upload gif
 - dataset not included because too many small files (very troublesome to upload)
 
@@ -26,3 +25,5 @@ When testing model:
 Adjust threshold accordingly (determines probability in which predicition is accepted).
 As dataset is small, position matters. User should position themselves in the centre of the video feed and be about one arms length away from the computer.
 Ensure that hand is being detected.
+
+![](http://i.imgur.com/OUkLi.gif)
