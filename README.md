@@ -1,5 +1,5 @@
 # ignite-team6
-Sign Language recognition using to TensorFlow and Mediapipe. 
+Sign Language recognition using TensorFlow and Mediapipe. 
 
 ## model-training
 To run the code in the folder, install the following dependencies
