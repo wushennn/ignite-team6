@@ -53,3 +53,9 @@ This class is used to run the video capture in a thread of its own.
 
 ### InferenceEngine.py
 This class can be used to run the inference in another thread. It is not used in the deployment currently.
+
+## model
+Archive intermediate code and models, 
+- Sentence 1: let us discuss our agenda
+- Sentence 2: im doing well thanks
+- Sentence 3: Sentence 1 + 2
